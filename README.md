@@ -14,6 +14,9 @@ Analyze e-commerce sales data to identify revenue trends, top-performing product
 - Profit margin analysis
 
 ## Dashboard Preview
+![Ecommerce Dashboard](ecommerce-dashboard.png)
+
+## Python Analysis
 
 
 ## Outcome
