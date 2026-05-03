@@ -17,7 +17,7 @@ Analyze e-commerce sales data to identify revenue trends, top-performing product
 ![Ecommerce Dashboard](ecommerce-dashboard.png)
 
 ## Python Analysis
-
+![Python Analysis](python_analysis.png)
 
 ## Outcome
 Helped understand sales patterns and improve strategy decisions.
