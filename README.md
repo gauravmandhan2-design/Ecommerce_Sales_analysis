@@ -1,2 +1,22 @@
 # Ecommerce_Sales_analysis
-Data analysis project using Excel and Python to find sales insights
+
+## 📌 Objective
+Analyze e-commerce sales data to identify revenue trends, top-performing products, and customer purchasing behavior.
+# Sales Data Analysis Project
+
+## 🛠 Tools Used
+- Excel
+- Python (Pandas, Matplotlib)
+
+## 📊 Key Insights
+- Monthly sales trends
+- Top-performing categories
+- Profit margin analysis
+
+## 📷 Dashboard Preview
+
+
+## 🚀 Outcome
+Helped understand sales patterns and improve strategy decisions.
+
+
